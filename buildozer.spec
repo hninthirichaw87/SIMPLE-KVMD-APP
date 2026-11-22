@@ -4,10 +4,10 @@
 title = SampleApp
 
 # (str) Package name
-package.name = nfsApk
+package.name = htrcApk
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = org.novfensec
+package.domain = org.htrc
 
 # (str) Source code where the main.py live
 source.dir = .
