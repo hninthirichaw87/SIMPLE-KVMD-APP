@@ -4,7 +4,7 @@
 title = ZillionApp
 
 # (str) Package name
-package.name = nfsApk
+package.name = zillionApk
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.zillion
