@@ -6,7 +6,7 @@ from kivymd.uix.screen import MDScreen
 from kivymd.utils.set_bars_colors import set_bars_colors
 
 
-class SampleApp(MDApp):
+class ZillionApp(MDApp):
 
     def __init__(self, **kwargs) -> None:
         super(SampleApp, self).__init__(**kwargs)
